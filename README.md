@@ -34,4 +34,10 @@ A step-by-step series of examples that tell you how to get a development environ
 
    ```sh
    git clone https://github.com/Satender1998/Bynry--gas-utility-company.git
-   cd your-repository-name
+   
+
+2. **Install dependencies**
+    ```npm install
+
+3. **Run the Server**
+    ```npm run dev
