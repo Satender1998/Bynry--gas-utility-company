@@ -37,7 +37,9 @@ A step-by-step series of examples that tell you how to get a development environ
    
 
 2. **Install dependencies**
-    ```npm install
+    ```sh
+    npm install
 
 3. **Run the Server**
-    ```npm run dev
+    ```sh
+    npm run dev
